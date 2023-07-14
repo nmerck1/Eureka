@@ -1,0 +1,28 @@
+bool isTrue = true;
+Console.WriteLine('The result is: '+ result);
+int x = 5 + 3;
+double z = 10.5;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+bool[] flags = { true, false, true };
+int length = numbers.Length;
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('First name: ' + firstName);
+public static int Add(int a, int b) { return a + b; }
+string name = "John";
+// This is a comment
+string greeting = 'Hello, ' + name + '!';
+bool isEqual = x == (int)y;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string firstName = names[0];
+float y = 2.3f;
+double squareRoot = Math.Sqrt(z);
+int[] numbers = { 1, 2, 3, 4, 5 };
+char nextChar = (char)(c + 1);
+bool hasFlag = flags[1];
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Average: ' + average);
+public class MyClass { public int MyProperty { get; set; } }
+int result = x + 10;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int x = 5;

@@ -1,0 +1,5 @@
+double z = 10.5;
+int x = 5;
+char c = 'A';
+string greeting = 'Hello, ' + name + '!';
+int x = 5 + 3;

@@ -1,0 +1,6 @@
+public static int Add(int a, int b) { return a + b; }
+bool[] flags = { true, false, true };
+Console.WriteLine('Average: ' + average);
+char nextChar = (char)(c + 1);
+DateTime now = DateTime.Now;
+float y = 2.3f;

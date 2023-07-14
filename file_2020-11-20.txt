@@ -1,0 +1,25 @@
+int length = numbers.Length;
+bool isEqual = x == (int)y;
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine("Hello, World!");
+DateTime now = DateTime.Now;
+string name = "John";
+Console.WriteLine('Array length: ' + length);
+char nextChar = (char)(c + 1);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;
+char c = 'A';
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int[] numbers = { 1, 2, 3, 4, 5 };
+float average = (x + y) / 2;
+string firstName = names[0];
+Console.WriteLine('Next character: ' + nextChar);
+int x = 5;
+Console.WriteLine('Average: ' + average);
+float y = 2.3f;
+string greeting = 'Hello, ' + name + '!';
+double squareRoot = Math.Sqrt(z);
+bool hasFlag = flags[1];
+Console.WriteLine('Square root: ' + squareRoot);

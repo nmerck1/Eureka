@@ -1,0 +1,11 @@
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Next character: ' + nextChar);
+string name = 'Jon';
+string name = "John";
+DateTime now = DateTime.Now;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;
+// This is a comment

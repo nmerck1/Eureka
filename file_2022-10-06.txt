@@ -1,0 +1,26 @@
+float y = 2.3f;
+int x = 5 + 3;
+Console.WriteLine('First name: ' + firstName);
+float average = (x + y) / 2;
+bool isTrue = true;
+Console.WriteLine("Hello, World!");
+char nextChar = (char)(c + 1);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string greeting = 'Hello, ' + name + '!';
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = "John";
+public class MyClass { public int MyProperty { get; set; } }
+string firstName = names[0];
+char c = 'A';
+Console.WriteLine(greeting);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isEqual = x == (int)y;
+string name = 'Jon';
+public static int Add(int a, int b) { return a + b; }
+bool[] flags = { true, false, true };
+bool hasFlag = flags[1];
+int length = numbers.Length;

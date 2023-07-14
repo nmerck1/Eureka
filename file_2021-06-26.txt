@@ -1,0 +1,21 @@
+string name = 'Jon';
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] numbers = { 1, 2, 3, 4, 5 };
+string greeting = 'Hello, ' + name + '!';
+double squareRoot = Math.Sqrt(z);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+public static int Add(int a, int b) { return a + b; }
+char nextChar = (char)(c + 1);
+string firstName = names[0];
+// This is a comment
+double z = 10.5;
+Console.WriteLine('The result is: '+ result);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Average: ' + average);
+int result = x + 10;
+bool isTrue = true;
+int x = 5 + 3;
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine("Hello, World!");
+Console.WriteLine(greeting);

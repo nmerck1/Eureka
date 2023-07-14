@@ -1,0 +1,22 @@
+string name = 'Jon';
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+double squareRoot = Math.Sqrt(z);
+double z = 10.5;
+Console.WriteLine('The result is: '+ result);
+string firstName = names[0];
+Console.WriteLine(greeting);
+Console.WriteLine('Average: ' + average);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Array length: ' + length);
+int result = x + 10;
+bool hasFlag = flags[1];
+int x = 5 + 3;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int x = 5;
+string name = "John";
+string[] names = { 'Jack', 'Jill', 'Hill' };
+char c = 'A';
+Console.WriteLine('First name: ' + firstName);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isTrue = true;

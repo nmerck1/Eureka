@@ -1,0 +1,14 @@
+bool[] flags = { true, false, true };
+char nextChar = (char)(c + 1);
+string name = 'Jon';
+string[] names = { 'Jack', 'Jill', 'Hill' };
+char c = 'A';
+double z = 10.5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5;
+Console.WriteLine('Average: ' + average);
+bool hasFlag = flags[1];
+public class MyClass { public int MyProperty { get; set; } }

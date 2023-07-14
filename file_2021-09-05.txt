@@ -1,0 +1,12 @@
+Console.WriteLine('Average: ' + average);
+bool isTrue = true;
+int x = 5 + 3;
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+DateTime now = DateTime.Now;
+bool hasFlag = flags[1];
+float average = (x + y) / 2;
+int length = numbers.Length;
+double squareRoot = Math.Sqrt(z);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+public class MyClass { public int MyProperty { get; set; } }

@@ -1,0 +1,31 @@
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string greeting = 'Hello, ' + name + '!';
+int x = 5;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine(greeting);
+string name = 'Jon';
+float average = (x + y) / 2;
+bool isEqual = x == (int)y;
+int length = numbers.Length;
+float y = 2.3f;
+bool[] flags = { true, false, true };
+public static int Add(int a, int b) { return a + b; }
+double squareRoot = Math.Sqrt(z);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine("Hello, World!");
+char nextChar = (char)(c + 1);
+double z = 10.5;
+// This is a comment
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Array length: ' + length);
+bool hasFlag = flags[1];
+string name = "John";
+Console.WriteLine('Next character: ' + nextChar);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('First name: ' + firstName);
+string firstName = names[0];
+int result = x + 10;
+char c = 'A';
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool isTrue = true;

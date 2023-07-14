@@ -1,0 +1,28 @@
+int length = numbers.Length;
+public class MyClass { public int MyProperty { get; set; } }
+int x = 5;
+char c = 'A';
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5 + 3;
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool hasFlag = flags[1];
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Average: ' + average);
+// This is a comment
+float average = (x + y) / 2;
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine("Hello, World!");
+string name = "John";
+bool[] flags = { true, false, true };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double squareRoot = Math.Sqrt(z);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Square root: ' + squareRoot);
+bool isEqual = x == (int)y;
+bool isTrue = true;
+string firstName = names[0];
+int result = x + 10;
+DateTime now = DateTime.Now;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine(greeting);

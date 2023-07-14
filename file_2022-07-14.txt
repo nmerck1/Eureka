@@ -1,0 +1,9 @@
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int length = numbers.Length;
+string name = "John";
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int x = 5;
+Console.WriteLine("Hello, World!");
+// This is a comment
+DateTime now = DateTime.Now;
+Console.WriteLine('Square root: ' + squareRoot);

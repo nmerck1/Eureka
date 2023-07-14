@@ -1,0 +1,21 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+bool isTrue = true;
+bool hasFlag = flags[1];
+string name = 'Jon';
+DateTime now = DateTime.Now;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int length = numbers.Length;
+// This is a comment
+Console.WriteLine('Square root: ' + squareRoot);
+string greeting = 'Hello, ' + name + '!';
+char nextChar = (char)(c + 1);
+char c = 'A';
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;
+bool[] flags = { true, false, true };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine(greeting);
+Console.WriteLine('Are x and y equal ? ' + isEqual);

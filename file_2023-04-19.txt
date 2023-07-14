@@ -1,0 +1,2 @@
+Console.WriteLine('Array length: ' + length);
+int result = x + 10;

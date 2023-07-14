@@ -1,0 +1,5 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Next character: ' + nextChar);
+char c = 'A';
+bool isEqual = x == (int)y;
+Console.WriteLine('Square root: ' + squareRoot);

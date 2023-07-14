@@ -1,0 +1,12 @@
+Console.WriteLine('Array length: ' + length);
+char c = 'A';
+Console.WriteLine('Square root: ' + squareRoot);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+float y = 2.3f;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('First name: ' + firstName);
+bool hasFlag = flags[1];
+char nextChar = (char)(c + 1);
+string name = 'Jon';

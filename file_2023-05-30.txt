@@ -1,0 +1,4 @@
+bool hasFlag = flags[1];
+Console.WriteLine(greeting);
+bool isEqual = x == (int)y;
+int[] numbers = { 1, 2, 3, 4, 5 };

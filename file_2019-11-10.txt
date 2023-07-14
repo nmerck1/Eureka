@@ -1,0 +1,4 @@
+bool hasFlag = flags[1];
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string greeting = 'Hello, ' + name + '!';

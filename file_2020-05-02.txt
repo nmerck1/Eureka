@@ -1,0 +1,8 @@
+Console.WriteLine(greeting);
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine("Hello, World!");
+float y = 2.3f;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string name = "John";
+string firstName = names[0];
+int[] numbers = { 1, 2, 3, 4, 5 };

@@ -1,0 +1,18 @@
+bool isTrue = true;
+int[] numbers = { 1, 2, 3, 4, 5 };
+DateTime now = DateTime.Now;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool hasFlag = flags[1];
+char c = 'A';
+Console.WriteLine('Next character: ' + nextChar);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine("Hello, World!");
+double squareRoot = Math.Sqrt(z);
+string name = "John";
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+float y = 2.3f;
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Square root: ' + squareRoot);
+float average = (x + y) / 2;
+Console.WriteLine(greeting);
+Console.WriteLine('Array length: ' + length);

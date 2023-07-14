@@ -1,0 +1,13 @@
+string greeting = 'Hello, ' + name + '!';
+string firstName = names[0];
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool hasFlag = flags[1];
+bool[] flags = { true, false, true };
+int length = numbers.Length;
+int result = x + 10;
+Console.WriteLine('Average: ' + average);
+string name = "John";
+Console.WriteLine("Hello, World!");
+int x = 5 + 3;
+float average = (x + y) / 2;
+float y = 2.3f;

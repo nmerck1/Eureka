@@ -1,0 +1,6 @@
+DateTime now = DateTime.Now;
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5;
+Console.WriteLine("Hello, World!");

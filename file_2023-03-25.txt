@@ -1,0 +1,6 @@
+bool[] flags = { true, false, true };
+string name = "John";
+string[] names = { 'Jack', 'Jill', 'Hill' };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string firstName = names[0];
+bool isTrue = true;

@@ -1,0 +1,5 @@
+int x = 5;
+Console.WriteLine('Next character: ' + nextChar);
+int length = numbers.Length;
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Are x and y equal ? ' + isEqual);

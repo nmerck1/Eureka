@@ -1,0 +1,19 @@
+char c = 'A';
+string name = "John";
+double squareRoot = Math.Sqrt(z);
+int x = 5;
+bool[] flags = { true, false, true };
+// This is a comment
+public class MyClass { public int MyProperty { get; set; } }
+string name = 'Jon';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Average: ' + average);
+bool isTrue = true;
+Console.WriteLine('The result is: '+ result);
+char nextChar = (char)(c + 1);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+DateTime now = DateTime.Now;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+float average = (x + y) / 2;

@@ -1,0 +1,6 @@
+// This is a comment
+bool[] flags = { true, false, true };
+Console.WriteLine('Average: ' + average);
+bool hasFlag = flags[1];
+bool isEqual = x == (int)y;
+double z = 10.5;

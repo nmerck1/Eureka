@@ -1,0 +1,12 @@
+bool[] flags = { true, false, true };
+Console.WriteLine('Array length: ' + length);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Average: ' + average);
+public static int Add(int a, int b) { return a + b; }
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string greeting = 'Hello, ' + name + '!';
+char c = 'A';
+bool hasFlag = flags[1];
+public class MyClass { public int MyProperty { get; set; } }
+int length = numbers.Length;
+float average = (x + y) / 2;

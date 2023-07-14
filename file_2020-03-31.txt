@@ -1,0 +1,8 @@
+float average = (x + y) / 2;
+bool isTrue = true;
+public static int Add(int a, int b) { return a + b; }
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = 'Jon';
+Console.WriteLine('Square root: ' + squareRoot);
+double z = 10.5;
+string[] names = { 'Jack', 'Jill', 'Hill' };

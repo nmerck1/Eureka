@@ -1,0 +1,25 @@
+bool isEqual = x == (int)y;
+int length = numbers.Length;
+float y = 2.3f;
+char nextChar = (char)(c + 1);
+bool isTrue = true;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine(greeting);
+public static int Add(int a, int b) { return a + b; }
+string greeting = 'Hello, ' + name + '!';
+double z = 10.5;
+double squareRoot = Math.Sqrt(z);
+int result = x + 10;
+string firstName = names[0];
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = "John";
+int x = 5;
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Square root: ' + squareRoot);
+float average = (x + y) / 2;
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string name = 'Jon';
+DateTime now = DateTime.Now;

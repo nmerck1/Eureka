@@ -1,0 +1,34 @@
+bool isTrue = true;
+public static int Add(int a, int b) { return a + b; }
+int[] numbers = { 1, 2, 3, 4, 5 };
+float average = (x + y) / 2;
+Console.WriteLine('First name: ' + firstName);
+char c = 'A';
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Square root: ' + squareRoot);
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };
+DateTime now = DateTime.Now;
+string firstName = names[0];
+int x = 5 + 3;
+Console.WriteLine("Hello, World!");
+string name = 'Jon';
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+float y = 2.3f;
+int length = numbers.Length;
+double squareRoot = Math.Sqrt(z);
+public class MyClass { public int MyProperty { get; set; } }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double z = 10.5;
+char nextChar = (char)(c + 1);
+Console.WriteLine('Average: ' + average);
+bool hasFlag = flags[1];
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int x = 5;
+string name = "John";
+bool isEqual = x == (int)y;
+Console.WriteLine('The result is: '+ result);
+// This is a comment
+Console.WriteLine('Array length: ' + length);

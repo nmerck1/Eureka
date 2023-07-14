@@ -1,0 +1,1 @@
+Console.WriteLine('Flag at index 1: ' + hasFlag);

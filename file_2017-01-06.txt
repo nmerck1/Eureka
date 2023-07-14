@@ -1,0 +1,9 @@
+// This is a comment
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int length = numbers.Length;
+Console.WriteLine('First name: ' + firstName);
+string firstName = names[0];
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string name = 'Jon';
+float y = 2.3f;
+Console.WriteLine('Square root: ' + squareRoot);

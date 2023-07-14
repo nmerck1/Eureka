@@ -1,0 +1,7 @@
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string firstName = names[0];
+DateTime now = DateTime.Now;

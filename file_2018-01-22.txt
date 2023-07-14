@@ -1,0 +1,25 @@
+Console.WriteLine('Next character: ' + nextChar);
+bool isTrue = true;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int x = 5;
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Array length: ' + length);
+DateTime now = DateTime.Now;
+bool[] flags = { true, false, true };
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Average: ' + average);
+Console.WriteLine("Hello, World!");
+string firstName = names[0];
+char nextChar = (char)(c + 1);
+int x = 5 + 3;
+char c = 'A';
+Console.WriteLine(greeting);
+string name = 'Jon';
+float average = (x + y) / 2;
+string name = "John";
+bool isEqual = x == (int)y;
+double z = 10.5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int[] numbers = { 1, 2, 3, 4, 5 };

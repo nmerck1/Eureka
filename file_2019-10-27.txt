@@ -1,0 +1,4 @@
+Console.WriteLine('First name: ' + firstName);
+int x = 5 + 3;
+float average = (x + y) / 2;
+string[] names = { 'Jack', 'Jill', 'Hill' };

@@ -1,0 +1,7 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine(greeting);
+string greeting = 'Hello, ' + name + '!';
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;

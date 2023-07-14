@@ -1,0 +1,7 @@
+float average = (x + y) / 2;
+char c = 'A';
+public class MyClass { public int MyProperty { get; set; } }
+string name = 'Jon';
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+bool hasFlag = flags[1];

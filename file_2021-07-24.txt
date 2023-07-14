@@ -1,0 +1,10 @@
+DateTime now = DateTime.Now;
+string firstName = names[0];
+int length = numbers.Length;
+string name = "John";
+// This is a comment
+bool isTrue = true;
+Console.WriteLine("Hello, World!");
+bool[] flags = { true, false, true };
+Console.WriteLine('Average: ' + average);
+float y = 2.3f;

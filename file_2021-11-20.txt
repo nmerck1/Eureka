@@ -1,0 +1,9 @@
+int length = numbers.Length;
+float y = 2.3f;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+DateTime now = DateTime.Now;
+Console.WriteLine("Hello, World!");
+string name = 'Jon';
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Array length: ' + length);
+bool isEqual = x == (int)y;

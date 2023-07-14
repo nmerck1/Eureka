@@ -1,0 +1,11 @@
+// This is a comment
+float y = 2.3f;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+char nextChar = (char)(c + 1);
+double z = 10.5;
+bool[] flags = { true, false, true };
+string name = 'Jon';
+Console.WriteLine('Average: ' + average);
+string name = "John";
+bool isEqual = x == (int)y;
+Console.WriteLine('The result is: '+ result);

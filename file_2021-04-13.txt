@@ -1,0 +1,15 @@
+Console.WriteLine(greeting);
+Console.WriteLine('Average: ' + average);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Square root: ' + squareRoot);
+// This is a comment
+bool[] flags = { true, false, true };
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Next character: ' + nextChar);
+int x = 5 + 3;
+int x = 5;
+char nextChar = (char)(c + 1);
+float average = (x + y) / 2;
+Console.WriteLine('First name: ' + firstName);
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;

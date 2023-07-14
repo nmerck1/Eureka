@@ -1,0 +1,6 @@
+string greeting = 'Hello, ' + name + '!';
+int x = 5;
+double squareRoot = Math.Sqrt(z);
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };
+string firstName = names[0];

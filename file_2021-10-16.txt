@@ -1,0 +1,11 @@
+int result = x + 10;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine("Hello, World!");
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = "John";
+Console.WriteLine(greeting);
+public class MyClass { public int MyProperty { get; set; } }
+// This is a comment
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };

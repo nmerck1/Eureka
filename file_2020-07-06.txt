@@ -1,0 +1,23 @@
+int result = x + 10;
+bool hasFlag = flags[1];
+Console.WriteLine(greeting);
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Array length: ' + length);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+float y = 2.3f;
+char c = 'A';
+Console.WriteLine('Next character: ' + nextChar);
+string greeting = 'Hello, ' + name + '!';
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('The result is: '+ result);
+bool isEqual = x == (int)y;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool[] flags = { true, false, true };
+// This is a comment
+public class MyClass { public int MyProperty { get; set; } }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int length = numbers.Length;

@@ -1,0 +1,7 @@
+float y = 2.3f;
+// This is a comment
+Console.WriteLine('Square root: ' + squareRoot);
+string name = "John";
+bool isEqual = x == (int)y;
+Console.WriteLine(greeting);
+int x = 5;

@@ -1,0 +1,14 @@
+string greeting = 'Hello, ' + name + '!';
+int x = 5 + 3;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+Console.WriteLine('First name: ' + firstName);
+string firstName = names[0];
+float y = 2.3f;
+bool isTrue = true;
+int x = 5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine(greeting);
+Console.WriteLine('Average: ' + average);

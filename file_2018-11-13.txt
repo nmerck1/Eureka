@@ -1,0 +1,4 @@
+char nextChar = (char)(c + 1);
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+bool[] flags = { true, false, true };

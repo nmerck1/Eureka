@@ -1,0 +1,8 @@
+string firstName = names[0];
+int length = numbers.Length;
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+public class MyClass { public int MyProperty { get; set; } }
+float average = (x + y) / 2;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };

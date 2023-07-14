@@ -1,0 +1,30 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Square root: ' + squareRoot);
+DateTime now = DateTime.Now;
+string name = "John";
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+public static int Add(int a, int b) { return a + b; }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double z = 10.5;
+Console.WriteLine('The result is: '+ result);
+int x = 5 + 3;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(greeting);
+char c = 'A';
+float y = 2.3f;
+bool isTrue = true;
+int length = numbers.Length;
+bool hasFlag = flags[1];
+Console.WriteLine('Next character: ' + nextChar);
+int result = x + 10;
+bool isEqual = x == (int)y;
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+double squareRoot = Math.Sqrt(z);
+string firstName = names[0];
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine("Hello, World!");
+float average = (x + y) / 2;
+char nextChar = (char)(c + 1);

@@ -1,0 +1,22 @@
+bool[] flags = { true, false, true };
+string greeting = 'Hello, ' + name + '!';
+public class MyClass { public int MyProperty { get; set; } }
+int length = numbers.Length;
+int x = 5 + 3;
+bool isTrue = true;
+int x = 5;
+Console.WriteLine("Hello, World!");
+double z = 10.5;
+float average = (x + y) / 2;
+char nextChar = (char)(c + 1);
+public static int Add(int a, int b) { return a + b; }
+float y = 2.3f;
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('The result is: '+ result);
+// This is a comment
+int result = x + 10;
+bool isEqual = x == (int)y;
+string name = 'Jon';
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string name = "John";

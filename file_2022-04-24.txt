@@ -1,0 +1,8 @@
+double z = 10.5;
+Console.WriteLine('Average: ' + average);
+string firstName = names[0];
+Console.WriteLine('Array length: ' + length);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+float y = 2.3f;
+string name = "John";
+bool hasFlag = flags[1];

@@ -1,0 +1,25 @@
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Square root: ' + squareRoot);
+float y = 2.3f;
+public static int Add(int a, int b) { return a + b; }
+int x = 5 + 3;
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+string name = 'Jon';
+double squareRoot = Math.Sqrt(z);
+int result = x + 10;
+Console.WriteLine(greeting);
+int[] numbers = { 1, 2, 3, 4, 5 };
+float average = (x + y) / 2;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine("Hello, World!");
+char nextChar = (char)(c + 1);
+double z = 10.5;
+int length = numbers.Length;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char c = 'A';
+bool isTrue = true;
+bool hasFlag = flags[1];
+string name = "John";
+int x = 5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }

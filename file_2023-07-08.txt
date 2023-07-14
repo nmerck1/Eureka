@@ -1,0 +1,15 @@
+public static int Add(int a, int b) { return a + b; }
+int length = numbers.Length;
+Console.WriteLine('First name: ' + firstName);
+int x = 5 + 3;
+char nextChar = (char)(c + 1);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int[] numbers = { 1, 2, 3, 4, 5 };
+float y = 2.3f;
+bool hasFlag = flags[1];
+int x = 5;
+bool[] flags = { true, false, true };
+// This is a comment
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Next character: ' + nextChar);
+char c = 'A';

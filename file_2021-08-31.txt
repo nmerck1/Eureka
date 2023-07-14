@@ -1,0 +1,15 @@
+public static int Add(int a, int b) { return a + b; }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int result = x + 10;
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char nextChar = (char)(c + 1);
+DateTime now = DateTime.Now;
+int length = numbers.Length;
+bool hasFlag = flags[1];
+string name = "John";
+public class MyClass { public int MyProperty { get; set; } }
+int[] numbers = { 1, 2, 3, 4, 5 };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+char c = 'A';
+int x = 5 + 3;

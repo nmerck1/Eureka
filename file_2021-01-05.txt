@@ -1,0 +1,14 @@
+double squareRoot = Math.Sqrt(z);
+int[] numbers = { 1, 2, 3, 4, 5 };
+float average = (x + y) / 2;
+int x = 5;
+bool isEqual = x == (int)y;
+int result = x + 10;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string name = 'Jon';
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Average: ' + average);
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string greeting = 'Hello, ' + name + '!';
+bool isTrue = true;

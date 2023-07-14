@@ -1,0 +1,17 @@
+public class MyClass { public int MyProperty { get; set; } }
+string name = 'Jon';
+Console.WriteLine('First name: ' + firstName);
+int length = numbers.Length;
+string firstName = names[0];
+float average = (x + y) / 2;
+Console.WriteLine('The result is: '+ result);
+bool hasFlag = flags[1];
+int x = 5 + 3;
+int result = x + 10;
+bool isTrue = true;
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string name = "John";
+public static int Add(int a, int b) { return a + b; }
+double z = 10.5;

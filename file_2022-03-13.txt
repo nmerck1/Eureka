@@ -1,0 +1,31 @@
+double squareRoot = Math.Sqrt(z);
+// This is a comment
+int length = numbers.Length;
+DateTime now = DateTime.Now;
+public static int Add(int a, int b) { return a + b; }
+char nextChar = (char)(c + 1);
+Console.WriteLine('The result is: '+ result);
+bool isTrue = true;
+int[] numbers = { 1, 2, 3, 4, 5 };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int result = x + 10;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool isEqual = x == (int)y;
+float y = 2.3f;
+Console.WriteLine(greeting);
+int x = 5;
+char c = 'A';
+bool[] flags = { true, false, true };
+Console.WriteLine('First name: ' + firstName);
+double z = 10.5;
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+public class MyClass { public int MyProperty { get; set; } }
+float average = (x + y) / 2;
+string name = "John";
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+bool hasFlag = flags[1];
+string name = 'Jon';
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };

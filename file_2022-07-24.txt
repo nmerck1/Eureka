@@ -1,0 +1,4 @@
+Console.WriteLine('Square root: ' + squareRoot);
+float average = (x + y) / 2;
+int x = 5;
+string greeting = 'Hello, ' + name + '!';

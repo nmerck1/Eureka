@@ -1,0 +1,26 @@
+bool[] flags = { true, false, true };
+DateTime now = DateTime.Now;
+public static int Add(int a, int b) { return a + b; }
+// This is a comment
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int result = x + 10;
+bool hasFlag = flags[1];
+Console.WriteLine(greeting);
+Console.WriteLine('Array length: ' + length);
+string name = "John";
+bool isTrue = true;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = 'Jon';
+bool isEqual = x == (int)y;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string greeting = 'Hello, ' + name + '!';
+float y = 2.3f;
+string firstName = names[0];
+double z = 10.5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine("Hello, World!");
+int[] numbers = { 1, 2, 3, 4, 5 };
+float average = (x + y) / 2;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+char nextChar = (char)(c + 1);

@@ -1,0 +1,16 @@
+string greeting = 'Hello, ' + name + '!';
+string name = "John";
+double squareRoot = Math.Sqrt(z);
+// This is a comment
+string name = 'Jon';
+bool hasFlag = flags[1];
+char nextChar = (char)(c + 1);
+Console.WriteLine('Array length: ' + length);
+public class MyClass { public int MyProperty { get; set; } }
+DateTime now = DateTime.Now;
+bool isEqual = x == (int)y;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('The result is: '+ result);
+double z = 10.5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }

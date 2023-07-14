@@ -1,0 +1,15 @@
+Console.WriteLine(greeting);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+DateTime now = DateTime.Now;
+string name = "John";
+bool[] flags = { true, false, true };
+double z = 10.5;
+int x = 5;
+int x = 5 + 3;
+Console.WriteLine('Array length: ' + length);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };
+string greeting = 'Hello, ' + name + '!';
+bool isTrue = true;
+bool hasFlag = flags[1];

@@ -1,0 +1,23 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+char c = 'A';
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine(greeting);
+DateTime now = DateTime.Now;
+Console.WriteLine('The result is: '+ result);
+string firstName = names[0];
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine("Hello, World!");
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+bool isTrue = true;
+int length = numbers.Length;
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isEqual = x == (int)y;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+double z = 10.5;
+// This is a comment
+public class MyClass { public int MyProperty { get; set; } }
+char nextChar = (char)(c + 1);
+Console.WriteLine('Next character: ' + nextChar);

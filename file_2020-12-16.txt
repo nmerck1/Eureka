@@ -1,0 +1,8 @@
+string firstName = names[0];
+char nextChar = (char)(c + 1);
+bool[] flags = { true, false, true };
+int length = numbers.Length;
+string greeting = 'Hello, ' + name + '!';
+DateTime now = DateTime.Now;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+char c = 'A';

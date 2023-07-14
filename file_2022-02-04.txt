@@ -1,0 +1,16 @@
+string name = 'Jon';
+char c = 'A';
+Console.WriteLine("Hello, World!");
+Console.WriteLine(greeting);
+char nextChar = (char)(c + 1);
+float average = (x + y) / 2;
+float y = 2.3f;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+double squareRoot = Math.Sqrt(z);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Square root: ' + squareRoot);
+string firstName = names[0];
+bool isEqual = x == (int)y;
+int x = 5 + 3;
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Are x and y equal ? ' + isEqual);

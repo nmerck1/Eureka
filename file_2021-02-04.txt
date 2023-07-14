@@ -1,0 +1,29 @@
+float average = (x + y) / 2;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool hasFlag = flags[1];
+string greeting = 'Hello, ' + name + '!';
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine("Hello, World!");
+int result = x + 10;
+char nextChar = (char)(c + 1);
+int x = 5 + 3;
+int[] numbers = { 1, 2, 3, 4, 5 };
+float y = 2.3f;
+bool isTrue = true;
+double squareRoot = Math.Sqrt(z);
+char c = 'A';
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(greeting);
+public class MyClass { public int MyProperty { get; set; } }
+DateTime now = DateTime.Now;
+string firstName = names[0];
+Console.WriteLine('Next character: ' + nextChar);
+int length = numbers.Length;
+double z = 10.5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool[] flags = { true, false, true };
+// This is a comment
+string name = "John";

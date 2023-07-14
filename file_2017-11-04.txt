@@ -1,0 +1,14 @@
+float average = (x + y) / 2;
+bool[] flags = { true, false, true };
+int result = x + 10;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine("Hello, World!");
+string greeting = 'Hello, ' + name + '!';
+bool isEqual = x == (int)y;
+Console.WriteLine('Array length: ' + length);
+string name = "John";
+bool hasFlag = flags[1];
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Next character: ' + nextChar);
+float y = 2.3f;
+double z = 10.5;

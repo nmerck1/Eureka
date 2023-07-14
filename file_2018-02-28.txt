@@ -1,0 +1,2 @@
+string greeting = 'Hello, ' + name + '!';
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };

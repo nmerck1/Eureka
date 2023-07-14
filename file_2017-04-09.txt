@@ -1,0 +1,8 @@
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+DateTime now = DateTime.Now;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = 'Jon';
+bool hasFlag = flags[1];
+Console.WriteLine('The result is: '+ result);
+int x = 5;

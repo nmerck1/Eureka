@@ -1,0 +1,13 @@
+double squareRoot = Math.Sqrt(z);
+string firstName = names[0];
+Console.WriteLine("Hello, World!");
+int length = numbers.Length;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Average: ' + average);
+bool[] flags = { true, false, true };
+float average = (x + y) / 2;
+char c = 'A';
+bool hasFlag = flags[1];
+float y = 2.3f;

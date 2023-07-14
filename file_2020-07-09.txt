@@ -1,0 +1,10 @@
+Console.WriteLine('The result is: '+ result);
+float y = 2.3f;
+double squareRoot = Math.Sqrt(z);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int x = 5 + 3;
+char c = 'A';
+int[] numbers = { 1, 2, 3, 4, 5 };
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+char nextChar = (char)(c + 1);

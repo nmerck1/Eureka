@@ -1,0 +1,14 @@
+int x = 5 + 3;
+char c = 'A';
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine(greeting);
+string name = 'Jon';
+char nextChar = (char)(c + 1);
+bool isTrue = true;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('The result is: '+ result);
+DateTime now = DateTime.Now;
+public static int Add(int a, int b) { return a + b; }

@@ -1,0 +1,28 @@
+char nextChar = (char)(c + 1);
+Console.WriteLine('Average: ' + average);
+int x = 5 + 3;
+int length = numbers.Length;
+string greeting = 'Hello, ' + name + '!';
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Next character: ' + nextChar);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string name = 'Jon';
+// This is a comment
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5;
+bool[] flags = { true, false, true };
+Console.WriteLine(greeting);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+Console.WriteLine('Array length: ' + length);
+bool isTrue = true;
+bool hasFlag = flags[1];
+Console.WriteLine('First name: ' + firstName);
+bool isEqual = x == (int)y;
+float average = (x + y) / 2;
+Console.WriteLine("Hello, World!");
+double squareRoot = Math.Sqrt(z);
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;

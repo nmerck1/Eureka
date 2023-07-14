@@ -1,0 +1,12 @@
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Array length: ' + length);
+char nextChar = (char)(c + 1);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool isEqual = x == (int)y;
+DateTime now = DateTime.Now;
+public class MyClass { public int MyProperty { get; set; } }
+char c = 'A';
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5 + 3;
+Console.WriteLine('Average: ' + average);

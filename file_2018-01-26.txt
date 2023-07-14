@@ -1,0 +1,3 @@
+bool isTrue = true;
+int length = numbers.Length;
+public static int Add(int a, int b) { return a + b; }

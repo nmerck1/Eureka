@@ -1,0 +1,27 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string firstName = names[0];
+public class MyClass { public int MyProperty { get; set; } }
+int[] numbers = { 1, 2, 3, 4, 5 };
+int result = x + 10;
+Console.WriteLine("Hello, World!");
+Console.WriteLine('The result is: '+ result);
+string greeting = 'Hello, ' + name + '!';
+int[] numbers = { 1, 2, 3, 4, 5 };
+char nextChar = (char)(c + 1);
+string name = "John";
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Next character: ' + nextChar);
+// This is a comment
+int length = numbers.Length;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+DateTime now = DateTime.Now;
+Console.WriteLine('Square root: ' + squareRoot);
+char c = 'A';
+float y = 2.3f;
+bool[] flags = { true, false, true };
+double z = 10.5;
+Console.WriteLine('First name: ' + firstName);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+bool isEqual = x == (int)y;
+double squareRoot = Math.Sqrt(z);

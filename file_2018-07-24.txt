@@ -1,0 +1,36 @@
+// This is a comment
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Average: ' + average);
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Next character: ' + nextChar);
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+char nextChar = (char)(c + 1);
+int x = 5 + 3;
+Console.WriteLine(greeting);
+double z = 10.5;
+bool[] flags = { true, false, true };
+float average = (x + y) / 2;
+int x = 5;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+DateTime now = DateTime.Now;
+Console.WriteLine('The result is: '+ result);
+bool isTrue = true;
+int result = x + 10;
+bool hasFlag = flags[1];
+string firstName = names[0];
+char c = 'A';
+Console.WriteLine('Square root: ' + squareRoot);
+bool isEqual = x == (int)y;
+public static int Add(int a, int b) { return a + b; }
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = "John";
+string name = 'Jon';
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double squareRoot = Math.Sqrt(z);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int length = numbers.Length;

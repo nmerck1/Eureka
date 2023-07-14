@@ -1,0 +1,7 @@
+int x = 5 + 3;
+bool isTrue = true;
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine(greeting);
+public class MyClass { public int MyProperty { get; set; } }
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Next character: ' + nextChar);

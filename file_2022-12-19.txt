@@ -1,0 +1,12 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int[] numbers = { 1, 2, 3, 4, 5 };
+DateTime now = DateTime.Now;
+int result = x + 10;
+Console.WriteLine(greeting);
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Next character: ' + nextChar);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+public class MyClass { public int MyProperty { get; set; } }
+int length = numbers.Length;
+Console.WriteLine('Average: ' + average);

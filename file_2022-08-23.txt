@@ -1,0 +1,25 @@
+int[] numbers = { 1, 2, 3, 4, 5 };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double squareRoot = Math.Sqrt(z);
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+bool[] flags = { true, false, true };
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int length = numbers.Length;
+Console.WriteLine('Array length: ' + length);
+bool hasFlag = flags[1];
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Next character: ' + nextChar);
+double z = 10.5;
+public class MyClass { public int MyProperty { get; set; } }
+string name = "John";
+bool isTrue = true;
+char nextChar = (char)(c + 1);
+Console.WriteLine(greeting);
+bool isEqual = x == (int)y;
+string firstName = names[0];
+int result = x + 10;
+int x = 5 + 3;

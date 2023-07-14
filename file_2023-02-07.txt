@@ -1,0 +1,7 @@
+char c = 'A';
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int length = numbers.Length;
+string name = 'Jon';
+bool isEqual = x == (int)y;

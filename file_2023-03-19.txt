@@ -1,0 +1,13 @@
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Square root: ' + squareRoot);
+float average = (x + y) / 2;
+string name = 'Jon';
+string greeting = 'Hello, ' + name + '!';
+public static int Add(int a, int b) { return a + b; }
+int length = numbers.Length;
+float y = 2.3f;
+Console.WriteLine('Average: ' + average);
+Console.WriteLine("Hello, World!");
+char c = 'A';
+Console.WriteLine(greeting);

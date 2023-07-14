@@ -1,0 +1,25 @@
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+int result = x + 10;
+char nextChar = (char)(c + 1);
+// This is a comment
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('The result is: '+ result);
+float average = (x + y) / 2;
+int length = numbers.Length;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine("Hello, World!");
+double z = 10.5;
+int x = 5;
+int x = 5 + 3;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int[] numbers = { 1, 2, 3, 4, 5 };
+public static int Add(int a, int b) { return a + b; }
+bool[] flags = { true, false, true };
+Console.WriteLine(greeting);
+Console.WriteLine('Next character: ' + nextChar);
+bool isEqual = x == (int)y;
+bool hasFlag = flags[1];
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Average: ' + average);
+char c = 'A';

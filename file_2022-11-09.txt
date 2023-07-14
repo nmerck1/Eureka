@@ -1,0 +1,5 @@
+Console.WriteLine("Hello, World!");
+Console.WriteLine('The result is: '+ result);
+bool hasFlag = flags[1];
+Console.WriteLine('Square root: ' + squareRoot);
+int result = x + 10;

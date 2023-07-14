@@ -1,0 +1,25 @@
+char nextChar = (char)(c + 1);
+DateTime now = DateTime.Now;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string firstName = names[0];
+public static int Add(int a, int b) { return a + b; }
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Average: ' + average);
+int length = numbers.Length;
+bool isTrue = true;
+int x = 5;
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine("Hello, World!");
+Console.WriteLine(greeting);
+float y = 2.3f;
+int result = x + 10;
+float average = (x + y) / 2;
+Console.WriteLine('Array length: ' + length);
+string name = "John";
+// This is a comment
+bool hasFlag = flags[1];
+Console.WriteLine('Next character: ' + nextChar);
+bool isEqual = x == (int)y;
+char c = 'A';
+double squareRoot = Math.Sqrt(z);
+int x = 5 + 3;

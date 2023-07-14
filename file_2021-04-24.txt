@@ -1,0 +1,18 @@
+double z = 10.5;
+string greeting = 'Hello, ' + name + '!';
+string firstName = names[0];
+bool isTrue = true;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int result = x + 10;
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('The result is: '+ result);
+DateTime now = DateTime.Now;
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+Console.WriteLine(greeting);
+string name = "John";
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Square root: ' + squareRoot);

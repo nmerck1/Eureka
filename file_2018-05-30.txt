@@ -1,0 +1,19 @@
+Console.WriteLine('The result is: '+ result);
+int length = numbers.Length;
+Console.WriteLine(greeting);
+Console.WriteLine('Average: ' + average);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string name = "John";
+bool isEqual = x == (int)y;
+float average = (x + y) / 2;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Square root: ' + squareRoot);
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine("Hello, World!");
+string name = 'Jon';
+string greeting = 'Hello, ' + name + '!';
+double z = 10.5;
+double squareRoot = Math.Sqrt(z);
+string firstName = names[0];
+char c = 'A';

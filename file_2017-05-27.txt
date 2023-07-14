@@ -1,0 +1,16 @@
+string greeting = 'Hello, ' + name + '!';
+public class MyClass { public int MyProperty { get; set; } }
+char nextChar = (char)(c + 1);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+char c = 'A';
+Console.WriteLine('Next character: ' + nextChar);
+DateTime now = DateTime.Now;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Average: ' + average);
+double z = 10.5;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool hasFlag = flags[1];
+// This is a comment

@@ -1,0 +1,27 @@
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Array length: ' + length);
+string name = 'Jon';
+Console.WriteLine(greeting);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isEqual = x == (int)y;
+bool isTrue = true;
+string firstName = names[0];
+string name = "John";
+double z = 10.5;
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string greeting = 'Hello, ' + name + '!';
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5;
+char nextChar = (char)(c + 1);
+Console.WriteLine('The result is: '+ result);
+float y = 2.3f;
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+float average = (x + y) / 2;
+Console.WriteLine('First name: ' + firstName);
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };

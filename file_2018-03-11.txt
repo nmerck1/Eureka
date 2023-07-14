@@ -1,0 +1,20 @@
+float average = (x + y) / 2;
+char nextChar = (char)(c + 1);
+int length = numbers.Length;
+float y = 2.3f;
+// This is a comment
+char c = 'A';
+bool[] flags = { true, false, true };
+public class MyClass { public int MyProperty { get; set; } }
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('First name: ' + firstName);
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Array length: ' + length);
+DateTime now = DateTime.Now;
+int x = 5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(greeting);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string firstName = names[0];
+bool isTrue = true;

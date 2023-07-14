@@ -1,0 +1,4 @@
+char c = 'A';
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool[] flags = { true, false, true };

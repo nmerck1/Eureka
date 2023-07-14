@@ -1,0 +1,21 @@
+int x = 5;
+string greeting = 'Hello, ' + name + '!';
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+// This is a comment
+bool hasFlag = flags[1];
+int x = 5 + 3;
+string name = 'Jon';
+DateTime now = DateTime.Now;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+char nextChar = (char)(c + 1);
+bool isTrue = true;
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Square root: ' + squareRoot);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('First name: ' + firstName);
+float y = 2.3f;
+char c = 'A';
+Console.WriteLine("Hello, World!");

@@ -1,0 +1,20 @@
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine(greeting);
+float average = (x + y) / 2;
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Square root: ' + squareRoot);
+DateTime now = DateTime.Now;
+string greeting = 'Hello, ' + name + '!';
+double z = 10.5;
+char nextChar = (char)(c + 1);
+int x = 5;
+bool hasFlag = flags[1];
+public class MyClass { public int MyProperty { get; set; } }
+bool isTrue = true;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('The result is: '+ result);
+bool isEqual = x == (int)y;
+char c = 'A';
+string[] names = { 'Jack', 'Jill', 'Hill' };

@@ -1,0 +1,15 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Square root: ' + squareRoot);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine(greeting);
+DateTime now = DateTime.Now;
+int x = 5 + 3;
+// This is a comment
+bool isTrue = true;
+bool hasFlag = flags[1];
+double z = 10.5;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string firstName = names[0];
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Average: ' + average);
+string name = 'Jon';

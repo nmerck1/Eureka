@@ -1,0 +1,6 @@
+bool[] flags = { true, false, true };
+double squareRoot = Math.Sqrt(z);
+char nextChar = (char)(c + 1);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Next character: ' + nextChar);

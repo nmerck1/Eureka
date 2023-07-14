@@ -1,0 +1,28 @@
+DateTime now = DateTime.Now;
+Console.WriteLine("Hello, World!");
+// This is a comment
+int x = 5;
+public class MyClass { public int MyProperty { get; set; } }
+bool isEqual = x == (int)y;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int result = x + 10;
+int x = 5 + 3;
+string name = 'Jon';
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int length = numbers.Length;
+Console.WriteLine('Square root: ' + squareRoot);
+char nextChar = (char)(c + 1);
+string firstName = names[0];
+Console.WriteLine(greeting);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+double z = 10.5;
+Console.WriteLine('Array length: ' + length);
+char c = 'A';
+bool isTrue = true;
+Console.WriteLine('First name: ' + firstName);
+double squareRoot = Math.Sqrt(z);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Flag at index 1: ' + hasFlag);

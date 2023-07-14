@@ -1,0 +1,7 @@
+Console.WriteLine("Hello, World!");
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Array length: ' + length);
+DateTime now = DateTime.Now;
+// This is a comment
+Console.WriteLine('The result is: '+ result);
+char c = 'A';

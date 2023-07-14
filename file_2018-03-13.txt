@@ -1,0 +1,19 @@
+Console.WriteLine('The result is: '+ result);
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5;
+bool isTrue = true;
+Console.WriteLine('First name: ' + firstName);
+string name = "John";
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char nextChar = (char)(c + 1);
+Console.WriteLine(greeting);
+string name = 'Jon';
+bool[] flags = { true, false, true };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+bool isEqual = x == (int)y;
+// This is a comment
+Console.WriteLine("Hello, World!");
+int x = 5 + 3;
+public class MyClass { public int MyProperty { get; set; } }

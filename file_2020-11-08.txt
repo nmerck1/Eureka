@@ -1,0 +1,22 @@
+public static int Add(int a, int b) { return a + b; }
+string name = "John";
+int x = 5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+float average = (x + y) / 2;
+int length = numbers.Length;
+Console.WriteLine('Next character: ' + nextChar);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char nextChar = (char)(c + 1);
+string firstName = names[0];
+int x = 5 + 3;
+Console.WriteLine('Square root: ' + squareRoot);
+public class MyClass { public int MyProperty { get; set; } }
+// This is a comment
+int[] numbers = { 1, 2, 3, 4, 5 };
+double squareRoot = Math.Sqrt(z);
+string greeting = 'Hello, ' + name + '!';
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Array length: ' + length);
+char c = 'A';
+string[] names = { 'Jack', 'Jill', 'Hill' };

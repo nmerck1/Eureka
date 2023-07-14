@@ -1,0 +1,17 @@
+bool isTrue = true;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('First name: ' + firstName);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+double squareRoot = Math.Sqrt(z);
+int result = x + 10;
+DateTime now = DateTime.Now;
+string firstName = names[0];
+float average = (x + y) / 2;
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool hasFlag = flags[1];
+bool isEqual = x == (int)y;
+// This is a comment

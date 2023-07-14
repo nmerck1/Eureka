@@ -1,0 +1,2 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Are x and y equal ? ' + isEqual);

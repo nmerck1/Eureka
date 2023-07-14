@@ -1,0 +1,11 @@
+bool[] flags = { true, false, true };
+bool isEqual = x == (int)y;
+double z = 10.5;
+float average = (x + y) / 2;
+Console.WriteLine('Square root: ' + squareRoot);
+DateTime now = DateTime.Now;
+char c = 'A';
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine("Hello, World!");
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string greeting = 'Hello, ' + name + '!';

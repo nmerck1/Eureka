@@ -1,0 +1,13 @@
+string name = "John";
+float y = 2.3f;
+string greeting = 'Hello, ' + name + '!';
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+char c = 'A';
+Console.WriteLine(greeting);
+double z = 10.5;
+Console.WriteLine('Square root: ' + squareRoot);
+char nextChar = (char)(c + 1);
+bool isEqual = x == (int)y;
+public class MyClass { public int MyProperty { get; set; } }
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('First name: ' + firstName);

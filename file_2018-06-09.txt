@@ -1,0 +1,24 @@
+char c = 'A';
+// This is a comment
+Console.WriteLine('Next character: ' + nextChar);
+string greeting = 'Hello, ' + name + '!';
+string name = "John";
+float average = (x + y) / 2;
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine(greeting);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int result = x + 10;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string name = 'Jon';
+char nextChar = (char)(c + 1);
+Console.WriteLine("Hello, World!");
+int length = numbers.Length;
+bool[] flags = { true, false, true };
+Console.WriteLine('Array length: ' + length);
+bool isEqual = x == (int)y;
+Console.WriteLine('Average: ' + average);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;
+public class MyClass { public int MyProperty { get; set; } }

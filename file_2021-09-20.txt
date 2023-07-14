@@ -1,0 +1,23 @@
+string firstName = names[0];
+Console.WriteLine('Next character: ' + nextChar);
+string name = "John";
+bool isTrue = true;
+int[] numbers = { 1, 2, 3, 4, 5 };
+char nextChar = (char)(c + 1);
+Console.WriteLine('Average: ' + average);
+DateTime now = DateTime.Now;
+int x = 5 + 3;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Square root: ' + squareRoot);
+int result = x + 10;
+public static int Add(int a, int b) { return a + b; }
+bool isEqual = x == (int)y;
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+float average = (x + y) / 2;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int x = 5;
+Console.WriteLine("Hello, World!");
+float y = 2.3f;

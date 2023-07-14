@@ -1,0 +1,22 @@
+public static int Add(int a, int b) { return a + b; }
+int x = 5;
+bool isEqual = x == (int)y;
+char nextChar = (char)(c + 1);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+DateTime now = DateTime.Now;
+int x = 5 + 3;
+// This is a comment
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool hasFlag = flags[1];
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int result = x + 10;
+bool isTrue = true;
+bool[] flags = { true, false, true };
+Console.WriteLine(greeting);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Average: ' + average);
+float y = 2.3f;
+int length = numbers.Length;
+Console.WriteLine('Square root: ' + squareRoot);
+string greeting = 'Hello, ' + name + '!';

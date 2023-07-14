@@ -1,0 +1,16 @@
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('First name: ' + firstName);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool[] flags = { true, false, true };
+int result = x + 10;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+float average = (x + y) / 2;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string name = "John";
+int x = 5 + 3;
+string firstName = names[0];
+bool isEqual = x == (int)y;
+Console.WriteLine('Next character: ' + nextChar);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine("Hello, World!");

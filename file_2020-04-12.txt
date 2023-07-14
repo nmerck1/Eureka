@@ -1,0 +1,17 @@
+Console.WriteLine('Average: ' + average);
+// This is a comment
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Next character: ' + nextChar);
+public class MyClass { public int MyProperty { get; set; } }
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length;
+int x = 5 + 3;
+char c = 'A';
+Console.WriteLine('Array length: ' + length);
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string name = 'Jon';
+Console.WriteLine(greeting);
+Console.WriteLine('The result is: '+ result);

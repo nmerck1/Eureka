@@ -1,0 +1,15 @@
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool[] flags = { true, false, true };
+bool isEqual = x == (int)y;
+int result = x + 10;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool hasFlag = flags[1];
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5 + 3;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+bool isTrue = true;
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine(greeting);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };

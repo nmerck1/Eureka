@@ -1,0 +1,5 @@
+int x = 5;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string name = "John";
+bool hasFlag = flags[1];

@@ -1,0 +1,16 @@
+Console.WriteLine(greeting);
+string name = "John";
+Console.WriteLine('Square root: ' + squareRoot);
+float y = 2.3f;
+bool hasFlag = flags[1];
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+string name = 'Jon';
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+public class MyClass { public int MyProperty { get; set; } }
+// This is a comment

@@ -1,0 +1,28 @@
+bool[] flags = { true, false, true };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+public static int Add(int a, int b) { return a + b; }
+bool hasFlag = flags[1];
+char nextChar = (char)(c + 1);
+Console.WriteLine('Square root: ' + squareRoot);
+char c = 'A';
+Console.WriteLine(greeting);
+int x = 5;
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine("Hello, World!");
+// This is a comment
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string name = "John";
+Console.WriteLine('Next character: ' + nextChar);
+bool isEqual = x == (int)y;
+string firstName = names[0];
+Console.WriteLine('Array length: ' + length);
+float average = (x + y) / 2;
+double z = 10.5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+DateTime now = DateTime.Now;
+int x = 5 + 3;
+int length = numbers.Length;
+Console.WriteLine('First name: ' + firstName);

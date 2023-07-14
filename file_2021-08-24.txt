@@ -1,0 +1,20 @@
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine(greeting);
+public static int Add(int a, int b) { return a + b; }
+bool isEqual = x == (int)y;
+Console.WriteLine("Hello, World!");
+int[] numbers = { 1, 2, 3, 4, 5 };
+char nextChar = (char)(c + 1);
+string name = "John";
+int result = x + 10;
+// This is a comment
+Console.WriteLine('Square root: ' + squareRoot);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('First name: ' + firstName);
+float y = 2.3f;
+double z = 10.5;
+bool hasFlag = flags[1];
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool[] flags = { true, false, true };
+Console.WriteLine('Array length: ' + length);

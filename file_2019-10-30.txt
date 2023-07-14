@@ -1,0 +1,9 @@
+char c = 'A';
+char nextChar = (char)(c + 1);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int x = 5 + 3;
+bool hasFlag = flags[1];
+int length = numbers.Length;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+// This is a comment
+string name = 'Jon';

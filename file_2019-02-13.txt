@@ -1,0 +1,20 @@
+int[] numbers = { 1, 2, 3, 4, 5 };
+char nextChar = (char)(c + 1);
+bool hasFlag = flags[1];
+Console.WriteLine('Square root: ' + squareRoot);
+bool isTrue = true;
+Console.WriteLine('Next character: ' + nextChar);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+public static int Add(int a, int b) { return a + b; }
+double squareRoot = Math.Sqrt(z);
+string name = "John";
+public class MyClass { public int MyProperty { get; set; } }
+int x = 5;
+char c = 'A';
+Console.WriteLine('First name: ' + firstName);
+string name = 'Jon';
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };

@@ -1,0 +1,17 @@
+bool[] flags = { true, false, true };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int result = x + 10;
+string name = 'Jon';
+// This is a comment
+char c = 'A';
+Console.WriteLine('First name: ' + firstName);
+DateTime now = DateTime.Now;
+int x = 5;
+int x = 5 + 3;
+Console.WriteLine('Array length: ' + length);
+bool hasFlag = flags[1];
+string name = "John";
+Console.WriteLine('Square root: ' + squareRoot);
+double z = 10.5;
+double squareRoot = Math.Sqrt(z);
+bool isTrue = true;

@@ -1,0 +1,7 @@
+string name = 'Jon';
+char c = 'A';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Square root: ' + squareRoot);
+float y = 2.3f;
+Console.WriteLine('Array length: ' + length);

@@ -1,0 +1,6 @@
+DateTime now = DateTime.Now;
+public class MyClass { public int MyProperty { get; set; } }
+bool hasFlag = flags[1];
+string[] names = { 'Jack', 'Jill', 'Hill' };
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Are x and y equal ? ' + isEqual);

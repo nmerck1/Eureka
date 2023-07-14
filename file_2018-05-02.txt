@@ -1,0 +1,14 @@
+string firstName = names[0];
+float y = 2.3f;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine(greeting);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Array length: ' + length);
+int result = x + 10;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Square root: ' + squareRoot);
+string name = "John";
+// This is a comment
+bool[] flags = { true, false, true };
+Console.WriteLine("Hello, World!");

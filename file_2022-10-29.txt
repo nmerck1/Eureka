@@ -1,0 +1,21 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('The result is: '+ result);
+bool hasFlag = flags[1];
+Console.WriteLine('Next character: ' + nextChar);
+bool isTrue = true;
+string firstName = names[0];
+double squareRoot = Math.Sqrt(z);
+string name = 'Jon';
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+float average = (x + y) / 2;
+public static int Add(int a, int b) { return a + b; }
+int x = 5;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char c = 'A';
+bool isEqual = x == (int)y;
+Console.WriteLine('Square root: ' + squareRoot);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine(greeting);

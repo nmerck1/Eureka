@@ -1,0 +1,12 @@
+bool isTrue = true;
+public class MyClass { public int MyProperty { get; set; } }
+string name = 'Jon';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool isEqual = x == (int)y;
+Console.WriteLine('Square root: ' + squareRoot);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+char c = 'A';
+Console.WriteLine('Array length: ' + length);
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Are x and y equal ? ' + isEqual);

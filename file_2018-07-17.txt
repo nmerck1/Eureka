@@ -1,0 +1,27 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };
+double squareRoot = Math.Sqrt(z);
+bool isTrue = true;
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = 'Jon';
+Console.WriteLine('Next character: ' + nextChar);
+float average = (x + y) / 2;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int x = 5 + 3;
+double z = 10.5;
+bool[] flags = { true, false, true };
+bool isEqual = x == (int)y;
+string firstName = names[0];
+Console.WriteLine('Average: ' + average);
+int x = 5;
+Console.WriteLine('The result is: '+ result);
+int length = numbers.Length;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Array length: ' + length);
+string name = "John";
+bool hasFlag = flags[1];
+// This is a comment

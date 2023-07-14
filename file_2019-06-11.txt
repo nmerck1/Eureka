@@ -1,0 +1,24 @@
+char nextChar = (char)(c + 1);
+double squareRoot = Math.Sqrt(z);
+char c = 'A';
+bool[] flags = { true, false, true };
+int result = x + 10;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+double z = 10.5;
+string name = 'Jon';
+float y = 2.3f;
+float average = (x + y) / 2;
+Console.WriteLine(greeting);
+Console.WriteLine('Array length: ' + length);
+string name = "John";
+Console.WriteLine("Hello, World!");
+string greeting = 'Hello, ' + name + '!';
+string firstName = names[0];
+DateTime now = DateTime.Now;
+Console.WriteLine('Square root: ' + squareRoot);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('The result is: '+ result);
+public static int Add(int a, int b) { return a + b; }
+int length = numbers.Length;
+bool isEqual = x == (int)y;

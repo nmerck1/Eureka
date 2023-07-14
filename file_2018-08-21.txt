@@ -1,0 +1,13 @@
+int x = 5 + 3;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool isTrue = true;
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+double squareRoot = Math.Sqrt(z);
+char c = 'A';
+double z = 10.5;
+Console.WriteLine(greeting);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+bool hasFlag = flags[1];
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine("Hello, World!");

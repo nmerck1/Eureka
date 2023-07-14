@@ -1,0 +1,8 @@
+Console.WriteLine('Array length: ' + length);
+int[] numbers = { 1, 2, 3, 4, 5 };
+public class MyClass { public int MyProperty { get; set; } }
+string greeting = 'Hello, ' + name + '!';
+DateTime now = DateTime.Now;
+char c = 'A';
+Console.WriteLine(greeting);
+int x = 5 + 3;

@@ -1,0 +1,7 @@
+Console.WriteLine('Array length: ' + length);
+bool isTrue = true;
+float average = (x + y) / 2;
+public class MyClass { public int MyProperty { get; set; } }
+int x = 5;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('First name: ' + firstName);

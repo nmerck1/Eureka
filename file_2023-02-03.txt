@@ -1,0 +1,14 @@
+// This is a comment
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Average: ' + average);
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string firstName = names[0];
+bool isEqual = x == (int)y;
+int x = 5 + 3;
+Console.WriteLine('Next character: ' + nextChar);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('The result is: '+ result);
+bool hasFlag = flags[1];
+Console.WriteLine("Hello, World!");

@@ -1,0 +1,15 @@
+string firstName = names[0];
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = 'Jon';
+bool[] flags = { true, false, true };
+int x = 5 + 3;
+double z = 10.5;
+// This is a comment
+Console.WriteLine('Next character: ' + nextChar);
+public class MyClass { public int MyProperty { get; set; } }
+bool isEqual = x == (int)y;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Average: ' + average);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Square root: ' + squareRoot);

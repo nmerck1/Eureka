@@ -1,0 +1,5 @@
+int result = x + 10;
+Console.WriteLine("Hello, World!");
+DateTime now = DateTime.Now;
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Flag at index 1: ' + hasFlag);

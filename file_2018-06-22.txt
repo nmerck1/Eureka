@@ -1,0 +1,16 @@
+int length = numbers.Length;
+bool isEqual = x == (int)y;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+char c = 'A';
+float average = (x + y) / 2;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int result = x + 10;
+bool hasFlag = flags[1];
+DateTime now = DateTime.Now;
+Console.WriteLine('The result is: '+ result);
+int[] numbers = { 1, 2, 3, 4, 5 };
+float y = 2.3f;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Array length: ' + length);

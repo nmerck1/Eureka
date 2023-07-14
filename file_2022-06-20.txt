@@ -1,0 +1,6 @@
+float y = 2.3f;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+public static int Add(int a, int b) { return a + b; }
+string greeting = 'Hello, ' + name + '!';
+// This is a comment
+char c = 'A';

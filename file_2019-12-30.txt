@@ -1,0 +1,24 @@
+bool isEqual = x == (int)y;
+Console.WriteLine('First name: ' + firstName);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5 + 3;
+string name = "John";
+Console.WriteLine('Average: ' + average);
+bool[] flags = { true, false, true };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+public class MyClass { public int MyProperty { get; set; } }
+string name = 'Jon';
+Console.WriteLine('Array length: ' + length);
+// This is a comment
+int result = x + 10;
+float average = (x + y) / 2;
+int[] numbers = { 1, 2, 3, 4, 5 };
+double z = 10.5;
+int x = 5;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+float y = 2.3f;
+char c = 'A';
+string greeting = 'Hello, ' + name + '!';
+DateTime now = DateTime.Now;
+Console.WriteLine('Square root: ' + squareRoot);

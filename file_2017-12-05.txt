@@ -1,0 +1,11 @@
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine(greeting);
+string name = 'Jon';
+Console.WriteLine('The result is: '+ result);
+string firstName = names[0];
+bool[] flags = { true, false, true };
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+Console.WriteLine('Array length: ' + length);
+double squareRoot = Math.Sqrt(z);
+bool isEqual = x == (int)y;

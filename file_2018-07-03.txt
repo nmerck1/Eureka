@@ -1,0 +1,29 @@
+int length = numbers.Length;
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+// This is a comment
+string name = 'Jon';
+string greeting = 'Hello, ' + name + '!';
+bool isTrue = true;
+public class MyClass { public int MyProperty { get; set; } }
+bool hasFlag = flags[1];
+string firstName = names[0];
+string name = "John";
+char c = 'A';
+Console.WriteLine("Hello, World!");
+int x = 5 + 3;
+int result = x + 10;
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Average: ' + average);
+float y = 2.3f;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Next character: ' + nextChar);
+int[] numbers = { 1, 2, 3, 4, 5 };
+float average = (x + y) / 2;
+char nextChar = (char)(c + 1);
+Console.WriteLine('Square root: ' + squareRoot);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+double z = 10.5;

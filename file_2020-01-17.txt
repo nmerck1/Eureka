@@ -1,0 +1,24 @@
+// This is a comment
+char nextChar = (char)(c + 1);
+public static int Add(int a, int b) { return a + b; }
+int x = 5;
+string name = 'Jon';
+string firstName = names[0];
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine(greeting);
+double z = 10.5;
+Console.WriteLine("Hello, World!");
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool isTrue = true;
+public class MyClass { public int MyProperty { get; set; } }
+DateTime now = DateTime.Now;
+string greeting = 'Hello, ' + name + '!';
+bool hasFlag = flags[1];
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Array length: ' + length);
+float average = (x + y) / 2;
+Console.WriteLine('Next character: ' + nextChar);
+string name = "John";
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int[] numbers = { 1, 2, 3, 4, 5 };

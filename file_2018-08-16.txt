@@ -1,0 +1,21 @@
+int x = 5;
+int result = x + 10;
+Console.WriteLine(greeting);
+float average = (x + y) / 2;
+public static int Add(int a, int b) { return a + b; }
+int x = 5 + 3;
+Console.WriteLine('Array length: ' + length);
+// This is a comment
+Console.WriteLine('Average: ' + average);
+bool hasFlag = flags[1];
+double z = 10.5;
+DateTime now = DateTime.Now;
+char nextChar = (char)(c + 1);
+int[] numbers = { 1, 2, 3, 4, 5 };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+bool[] flags = { true, false, true };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool isTrue = true;
+string name = 'Jon';
+Console.WriteLine('Square root: ' + squareRoot);
+string greeting = 'Hello, ' + name + '!';

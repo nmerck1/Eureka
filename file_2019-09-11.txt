@@ -1,0 +1,3 @@
+int x = 5;
+bool isTrue = true;
+Console.WriteLine('Next character: ' + nextChar);

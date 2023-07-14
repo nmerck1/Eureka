@@ -1,0 +1,22 @@
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+DateTime now = DateTime.Now;
+Console.WriteLine('Array length: ' + length);
+string greeting = 'Hello, ' + name + '!';
+bool[] flags = { true, false, true };
+Console.WriteLine("Hello, World!");
+bool hasFlag = flags[1];
+bool isEqual = x == (int)y;
+float average = (x + y) / 2;
+string name = 'Jon';
+char nextChar = (char)(c + 1);
+string firstName = names[0];
+double z = 10.5;
+double squareRoot = Math.Sqrt(z);
+int x = 5 + 3;
+float y = 2.3f;
+bool isTrue = true;
+string name = "John";
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+public static int Add(int a, int b) { return a + b; }

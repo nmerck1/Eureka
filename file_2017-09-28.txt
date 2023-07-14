@@ -1,0 +1,5 @@
+Console.WriteLine('Square root: ' + squareRoot);
+bool[] flags = { true, false, true };
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+DateTime now = DateTime.Now;

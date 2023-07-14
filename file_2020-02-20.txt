@@ -1,0 +1,6 @@
+Console.WriteLine(greeting);
+int result = x + 10;
+public class MyClass { public int MyProperty { get; set; } }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Square root: ' + squareRoot);

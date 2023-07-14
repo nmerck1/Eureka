@@ -1,0 +1,13 @@
+Console.WriteLine("Hello, World!");
+int length = numbers.Length;
+int result = x + 10;
+Console.WriteLine(greeting);
+public class MyClass { public int MyProperty { get; set; } }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double squareRoot = Math.Sqrt(z);
+char c = 'A';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool isEqual = x == (int)y;
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool[] flags = { true, false, true };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }

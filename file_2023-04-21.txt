@@ -1,0 +1,17 @@
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = "John";
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+bool isTrue = true;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string name = 'Jon';
+int x = 5;
+int result = x + 10;
+Console.WriteLine(greeting);
+int[] numbers = { 1, 2, 3, 4, 5 };
+public static int Add(int a, int b) { return a + b; }
+bool isEqual = x == (int)y;
+float y = 2.3f;
+double squareRoot = Math.Sqrt(z);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine("Hello, World!");

@@ -1,0 +1,22 @@
+Console.WriteLine('Average: ' + average);
+// This is a comment
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int length = numbers.Length;
+Console.WriteLine('Square root: ' + squareRoot);
+double z = 10.5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+string firstName = names[0];
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine(greeting);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+DateTime now = DateTime.Now;
+Console.WriteLine('Next character: ' + nextChar);
+public static int Add(int a, int b) { return a + b; }
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine("Hello, World!");
+float average = (x + y) / 2;
+string name = "John";

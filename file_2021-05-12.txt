@@ -1,0 +1,11 @@
+Console.WriteLine('First name: ' + firstName);
+bool isTrue = true;
+int x = 5 + 3;
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length;
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5;
+Console.WriteLine('Average: ' + average);
+string name = "John";
+string name = 'Jon';
+public static int Add(int a, int b) { return a + b; }

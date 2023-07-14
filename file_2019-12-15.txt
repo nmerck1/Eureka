@@ -1,0 +1,12 @@
+double z = 10.5;
+Console.WriteLine('Square root: ' + squareRoot);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool hasFlag = flags[1];
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+DateTime now = DateTime.Now;
+bool isTrue = true;
+float average = (x + y) / 2;
+public class MyClass { public int MyProperty { get; set; } }
+int x = 5;
+string[] names = { 'Jack', 'Jill', 'Hill' };

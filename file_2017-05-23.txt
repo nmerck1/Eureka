@@ -1,0 +1,5 @@
+bool[] flags = { true, false, true };
+Console.WriteLine(greeting);
+Console.WriteLine('Average: ' + average);
+bool isTrue = true;
+double z = 10.5;

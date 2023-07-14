@@ -1,0 +1,13 @@
+Console.WriteLine('First name: ' + firstName);
+bool isEqual = x == (int)y;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int length = numbers.Length;
+string greeting = 'Hello, ' + name + '!';
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isTrue = true;
+string name = "John";
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+DateTime now = DateTime.Now;
+Console.WriteLine('Square root: ' + squareRoot);

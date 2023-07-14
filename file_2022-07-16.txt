@@ -1,0 +1,4 @@
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5 + 3;
+string greeting = 'Hello, ' + name + '!';
+public static int Add(int a, int b) { return a + b; }

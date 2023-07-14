@@ -1,0 +1,20 @@
+Console.WriteLine('Average: ' + average);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('First name: ' + firstName);
+int length = numbers.Length;
+public static int Add(int a, int b) { return a + b; }
+int x = 5;
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double z = 10.5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+int result = x + 10;
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+char nextChar = (char)(c + 1);
+Console.WriteLine('Array length: ' + length);
+DateTime now = DateTime.Now;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+// This is a comment
+string firstName = names[0];
+bool isTrue = true;

@@ -1,0 +1,18 @@
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Next character: ' + nextChar);
+DateTime now = DateTime.Now;
+bool[] flags = { true, false, true };
+// This is a comment
+Console.WriteLine('Array length: ' + length);
+double z = 10.5;
+Console.WriteLine(greeting);
+public static int Add(int a, int b) { return a + b; }
+int x = 5 + 3;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string name = 'Jon';
+string firstName = names[0];
+int x = 5;
+Console.WriteLine("Hello, World!");
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int result = x + 10;
+int[] numbers = { 1, 2, 3, 4, 5 };

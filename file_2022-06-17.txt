@@ -1,0 +1,8 @@
+float y = 2.3f;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+bool isEqual = x == (int)y;
+Console.WriteLine(greeting);
+string name = "John";
+bool isTrue = true;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int x = 5 + 3;

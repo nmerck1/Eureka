@@ -1,0 +1,14 @@
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine('Array length: ' + length);
+char nextChar = (char)(c + 1);
+int x = 5 + 3;
+string greeting = 'Hello, ' + name + '!';
+char c = 'A';
+string firstName = names[0];
+string name = 'Jon';
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Square root: ' + squareRoot);
+bool hasFlag = flags[1];
+// This is a comment
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Are x and y equal ? ' + isEqual);

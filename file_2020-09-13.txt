@@ -1,0 +1,15 @@
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Next character: ' + nextChar);
+bool[] flags = { true, false, true };
+int x = 5 + 3;
+string name = "John";
+string firstName = names[0];
+Console.WriteLine(greeting);
+double z = 10.5;
+bool isTrue = true;
+Console.WriteLine('The result is: '+ result);
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+char nextChar = (char)(c + 1);
+float average = (x + y) / 2;

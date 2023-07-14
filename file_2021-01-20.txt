@@ -1,0 +1,13 @@
+Console.WriteLine('Average: ' + average);
+string name = 'Jon';
+string name = "John";
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Array length: ' + length);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool[] flags = { true, false, true };
+float average = (x + y) / 2;
+Console.WriteLine(greeting);
+Console.WriteLine('First name: ' + firstName);
+char nextChar = (char)(c + 1);
+char c = 'A';
+public class MyClass { public int MyProperty { get; set; } }

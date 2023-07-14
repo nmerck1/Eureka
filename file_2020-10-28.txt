@@ -1,0 +1,22 @@
+string greeting = 'Hello, ' + name + '!';
+bool isEqual = x == (int)y;
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isTrue = true;
+DateTime now = DateTime.Now;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Array length: ' + length);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int length = numbers.Length;
+string name = "John";
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool hasFlag = flags[1];
+char c = 'A';
+char nextChar = (char)(c + 1);
+Console.WriteLine(greeting);
+Console.WriteLine('First name: ' + firstName);
+// This is a comment
+bool[] flags = { true, false, true };
+string firstName = names[0];
+int x = 5;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string name = 'Jon';

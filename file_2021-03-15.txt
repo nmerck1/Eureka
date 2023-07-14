@@ -1,0 +1,5 @@
+Console.WriteLine('The result is: '+ result);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool hasFlag = flags[1];
+int x = 5;
+char c = 'A';

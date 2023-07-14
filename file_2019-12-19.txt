@@ -1,0 +1,8 @@
+char nextChar = (char)(c + 1);
+float y = 2.3f;
+int result = x + 10;
+bool hasFlag = flags[1];
+float average = (x + y) / 2;
+Console.WriteLine('Array length: ' + length);
+int x = 5 + 3;
+int x = 5;

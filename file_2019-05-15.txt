@@ -1,0 +1,10 @@
+float average = (x + y) / 2;
+Console.WriteLine("Hello, World!");
+string name = "John";
+string greeting = 'Hello, ' + name + '!';
+DateTime now = DateTime.Now;
+float y = 2.3f;
+Console.WriteLine('Array length: ' + length);
+char nextChar = (char)(c + 1);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int x = 5;

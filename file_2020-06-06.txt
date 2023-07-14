@@ -1,0 +1,23 @@
+public static int Add(int a, int b) { return a + b; }
+bool[] flags = { true, false, true };
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine("Hello, World!");
+char c = 'A';
+int x = 5 + 3;
+Console.WriteLine('The result is: '+ result);
+bool isEqual = x == (int)y;
+int x = 5;
+Console.WriteLine('Next character: ' + nextChar);
+// This is a comment
+Console.WriteLine('Array length: ' + length);
+int result = x + 10;
+float y = 2.3f;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+double z = 10.5;
+Console.WriteLine('Average: ' + average);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool isTrue = true;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+public class MyClass { public int MyProperty { get; set; } }
+bool hasFlag = flags[1];

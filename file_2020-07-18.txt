@@ -1,0 +1,5 @@
+Console.WriteLine('Array length: ' + length);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Average: ' + average);

@@ -1,0 +1,26 @@
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };
+bool hasFlag = flags[1];
+char nextChar = (char)(c + 1);
+string firstName = names[0];
+DateTime now = DateTime.Now;
+Console.WriteLine('Average: ' + average);
+string name = "John";
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(greeting);
+int x = 5;
+float y = 2.3f;
+int length = numbers.Length;
+Console.WriteLine('First name: ' + firstName);
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine("Hello, World!");
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Next character: ' + nextChar);
+float average = (x + y) / 2;
+bool isTrue = true;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+public class MyClass { public int MyProperty { get; set; } }

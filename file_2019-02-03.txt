@@ -1,0 +1,27 @@
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool[] flags = { true, false, true };
+Console.WriteLine(greeting);
+bool hasFlag = flags[1];
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Array length: ' + length);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string name = 'Jon';
+Console.WriteLine('Next character: ' + nextChar);
+bool isEqual = x == (int)y;
+char nextChar = (char)(c + 1);
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine("Hello, World!");
+double z = 10.5;
+Console.WriteLine('First name: ' + firstName);
+// This is a comment
+public static int Add(int a, int b) { return a + b; }
+string firstName = names[0];
+public class MyClass { public int MyProperty { get; set; } }
+int x = 5;
+int x = 5 + 3;
+char c = 'A';
+float average = (x + y) / 2;
+Console.WriteLine('Are x and y equal ? ' + isEqual);

@@ -1,0 +1,11 @@
+bool isTrue = true;
+Console.WriteLine('First name: ' + firstName);
+char nextChar = (char)(c + 1);
+double z = 10.5;
+DateTime now = DateTime.Now;
+public static int Add(int a, int b) { return a + b; }
+Console.WriteLine(greeting);
+string name = "John";
+bool[] flags = { true, false, true };
+// This is a comment
+Console.WriteLine("Hello, World!");

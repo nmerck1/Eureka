@@ -1,0 +1,4 @@
+Console.WriteLine('Array length: ' + length);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+int length = numbers.Length;
+bool isTrue = true;

@@ -1,0 +1,15 @@
+// This is a comment
+int[] numbers = { 1, 2, 3, 4, 5 };
+string name = "John";
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+char nextChar = (char)(c + 1);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Next character: ' + nextChar);
+bool[] flags = { true, false, true };
+Console.WriteLine(greeting);
+int x = 5;
+float y = 2.3f;
+float average = (x + y) / 2;
+double z = 10.5;
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string greeting = 'Hello, ' + name + '!';

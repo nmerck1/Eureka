@@ -1,0 +1,23 @@
+double squareRoot = Math.Sqrt(z);
+// This is a comment
+int[] numbers = { 1, 2, 3, 4, 5 };
+string greeting = 'Hello, ' + name + '!';
+int x = 5 + 3;
+float y = 2.3f;
+DateTime now = DateTime.Now;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+char nextChar = (char)(c + 1);
+string name = 'Jon';
+int x = 5;
+Console.WriteLine('Next character: ' + nextChar);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine("Hello, World!");
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool isEqual = x == (int)y;
+public static int Add(int a, int b) { return a + b; }
+int result = x + 10;
+float average = (x + y) / 2;
+char c = 'A';
+double z = 10.5;
+Console.WriteLine('Array length: ' + length);
+bool[] flags = { true, false, true };

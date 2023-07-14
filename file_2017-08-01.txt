@@ -1,0 +1,13 @@
+int result = x + 10;
+Console.WriteLine('Next character: ' + nextChar);
+double z = 10.5;
+bool hasFlag = flags[1];
+char c = 'A';
+public class MyClass { public int MyProperty { get; set; } }
+int length = numbers.Length;
+Console.WriteLine('Array length: ' + length);
+float average = (x + y) / 2;
+string greeting = 'Hello, ' + name + '!';
+int x = 5;
+Console.WriteLine('Square root: ' + squareRoot);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }

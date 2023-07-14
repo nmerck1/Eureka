@@ -1,0 +1,25 @@
+float y = 2.3f;
+float average = (x + y) / 2;
+// This is a comment
+int length = numbers.Length;
+string name = 'Jon';
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('First name: ' + firstName);
+public static int Add(int a, int b) { return a + b; }
+bool isTrue = true;
+Console.WriteLine('Average: ' + average);
+public class MyClass { public int MyProperty { get; set; } }
+bool isEqual = x == (int)y;
+string name = "John";
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char c = 'A';
+DateTime now = DateTime.Now;
+double z = 10.5;
+char nextChar = (char)(c + 1);
+bool hasFlag = flags[1];
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(greeting);
+int x = 5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+int x = 5 + 3;

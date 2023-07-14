@@ -1,0 +1,7 @@
+int length = numbers.Length;
+public class MyClass { public int MyProperty { get; set; } }
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Square root: ' + squareRoot);
+string name = "John";

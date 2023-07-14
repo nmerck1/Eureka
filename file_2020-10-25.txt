@@ -1,0 +1,37 @@
+bool[] flags = { true, false, true };
+int result = x + 10;
+Console.WriteLine('First name: ' + firstName);
+float average = (x + y) / 2;
+Console.WriteLine('Square root: ' + squareRoot);
+public static int Add(int a, int b) { return a + b; }
+DateTime now = DateTime.Now;
+bool isTrue = true;
+char c = 'A';
+bool hasFlag = flags[1];
+int x = 5;
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] numbers = { 1, 2, 3, 4, 5 };
+float y = 2.3f;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string firstName = names[0];
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string greeting = 'Hello, ' + name + '!';
+string name = "John";
+int length = numbers.Length;
+Console.WriteLine(greeting);
+int x = 5 + 3;
+public class MyClass { public int MyProperty { get; set; } }
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('The result is: '+ result);
+double z = 10.5;
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+string name = 'Jon';
+char nextChar = (char)(c + 1);
+// This is a comment
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+bool isEqual = x == (int)y;

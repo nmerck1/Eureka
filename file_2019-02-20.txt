@@ -1,0 +1,19 @@
+char c = 'A';
+string name = 'Jon';
+Console.WriteLine('Square root: ' + squareRoot);
+int x = 5 + 3;
+bool hasFlag = flags[1];
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string greeting = 'Hello, ' + name + '!';
+DateTime now = DateTime.Now;
+Console.WriteLine('Array length: ' + length);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Average: ' + average);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('The result is: '+ result);
+int x = 5;
+string name = "John";
+string[] names = { 'Jack', 'Jill', 'Hill' };
+public static int Add(int a, int b) { return a + b; }
+int[] numbers = { 1, 2, 3, 4, 5 };
+int result = x + 10;

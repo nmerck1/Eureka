@@ -1,0 +1,12 @@
+Console.WriteLine(greeting);
+float y = 2.3f;
+Console.WriteLine('Next character: ' + nextChar);
+float average = (x + y) / 2;
+public class MyClass { public int MyProperty { get; set; } }
+bool isTrue = true;
+Console.WriteLine('Square root: ' + squareRoot);
+char c = 'A';
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double squareRoot = Math.Sqrt(z);
+// This is a comment
+string name = "John";

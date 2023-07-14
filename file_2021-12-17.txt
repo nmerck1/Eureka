@@ -1,0 +1,18 @@
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine("Hello, World!");
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Next character: ' + nextChar);
+// This is a comment
+Console.WriteLine('The result is: '+ result);
+string name = 'Jon';
+DateTime now = DateTime.Now;
+int x = 5 + 3;
+public class MyClass { public int MyProperty { get; set; } }
+bool[] flags = { true, false, true };
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double squareRoot = Math.Sqrt(z);
+float average = (x + y) / 2;
+int length = numbers.Length;
+int[] numbers = { 1, 2, 3, 4, 5 };
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string greeting = 'Hello, ' + name + '!';

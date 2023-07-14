@@ -1,0 +1,33 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string name = 'Jon';
+string greeting = 'Hello, ' + name + '!';
+int x = 5;
+Console.WriteLine('Square root: ' + squareRoot);
+bool hasFlag = flags[1];
+public class MyClass { public int MyProperty { get; set; } }
+int result = x + 10;
+char nextChar = (char)(c + 1);
+string name = "John";
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine(greeting);
+DateTime now = DateTime.Now;
+double z = 10.5;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine("Hello, World!");
+double squareRoot = Math.Sqrt(z);
+// This is a comment
+bool isEqual = x == (int)y;
+char c = 'A';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+int x = 5 + 3;
+bool isTrue = true;
+Console.WriteLine('Average: ' + average);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('First name: ' + firstName);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Array length: ' + length);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+float average = (x + y) / 2;
+int length = numbers.Length;
+string firstName = names[0];

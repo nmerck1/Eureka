@@ -1,0 +1,9 @@
+int x = 5;
+int result = x + 10;
+float y = 2.3f;
+bool isTrue = true;
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+Console.WriteLine('Average: ' + average);
+bool[] flags = { true, false, true };

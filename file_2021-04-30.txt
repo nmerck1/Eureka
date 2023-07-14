@@ -1,0 +1,15 @@
+int x = 5;
+Console.WriteLine(greeting);
+bool[] flags = { true, false, true };
+// This is a comment
+double z = 10.5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Array length: ' + length);
+char c = 'A';
+Console.WriteLine('Average: ' + average);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+bool hasFlag = flags[1];
+string name = 'Jon';
+int[] numbers = { 1, 2, 3, 4, 5 };

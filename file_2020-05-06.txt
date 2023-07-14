@@ -1,0 +1,13 @@
+float average = (x + y) / 2;
+Console.WriteLine("Hello, World!");
+Console.WriteLine('Array length: ' + length);
+public class MyClass { public int MyProperty { get; set; } }
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length;
+float y = 2.3f;
+char nextChar = (char)(c + 1);
+int result = x + 10;
+// This is a comment
+bool isTrue = true;
+Console.WriteLine('First name: ' + firstName);
+int[] numbers = { 1, 2, 3, 4, 5 };

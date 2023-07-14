@@ -1,0 +1,8 @@
+public static int Add(int a, int b) { return a + b; }
+string greeting = 'Hello, ' + name + '!';
+bool isTrue = true;
+bool isEqual = x == (int)y;
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Next character: ' + nextChar);
+int x = 5;
+int length = numbers.Length;

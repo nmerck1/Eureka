@@ -1,0 +1,15 @@
+Console.WriteLine('Array length: ' + length);
+float average = (x + y) / 2;
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool isTrue = true;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Average: ' + average);
+int result = x + 10;
+string name = "John";
+double z = 10.5;
+Console.WriteLine('Next character: ' + nextChar);
+int x = 5 + 3;
+bool hasFlag = flags[1];
+Console.WriteLine('First name: ' + firstName);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Are x and y equal ? ' + isEqual);

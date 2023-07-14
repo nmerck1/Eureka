@@ -1,0 +1,17 @@
+int x = 5 + 3;
+Console.WriteLine('Average: ' + average);
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+// This is a comment
+DateTime now = DateTime.Now;
+Console.WriteLine('First name: ' + firstName);
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Next character: ' + nextChar);
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool[] flags = { true, false, true };
+string name = 'Jon';
+Console.WriteLine(greeting);
+int x = 5;
+bool isEqual = x == (int)y;
+Console.WriteLine('Square root: ' + squareRoot);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+string greeting = 'Hello, ' + name + '!';

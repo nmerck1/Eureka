@@ -1,0 +1,1 @@
+bool hasFlag = flags[1];

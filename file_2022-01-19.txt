@@ -1,0 +1,11 @@
+public static int Add(int a, int b) { return a + b; }
+double z = 10.5;
+float y = 2.3f;
+Console.WriteLine("Hello, World!");
+int length = numbers.Length;
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('Array length: ' + length);
+int x = 5 + 3;
+bool isEqual = x == (int)y;
+bool isTrue = true;
+Console.WriteLine('The result is: '+ result);

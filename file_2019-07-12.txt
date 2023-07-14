@@ -1,0 +1,14 @@
+string name = "John";
+string name = 'Jon';
+int x = 5;
+int result = x + 10;
+bool[] flags = { true, false, true };
+Console.WriteLine("Hello, World!");
+char nextChar = (char)(c + 1);
+float y = 2.3f;
+double squareRoot = Math.Sqrt(z);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Square root: ' + squareRoot);
+int length = numbers.Length;
+// This is a comment
+int x = 5 + 3;

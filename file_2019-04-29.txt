@@ -1,0 +1,2 @@
+bool[] flags = { true, false, true };
+int result = x + 10;

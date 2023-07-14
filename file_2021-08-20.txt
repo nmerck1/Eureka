@@ -1,0 +1,9 @@
+float y = 2.3f;
+bool hasFlag = flags[1];
+string[] names = { 'Jack', 'Jill', 'Hill' };
+public class MyClass { public int MyProperty { get; set; } }
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+string name = "John";
+double z = 10.5;
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine('Flag at index 1: ' + hasFlag);

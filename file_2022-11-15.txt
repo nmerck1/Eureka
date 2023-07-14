@@ -1,0 +1,22 @@
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+string name = 'Jon';
+Console.WriteLine("Hello, World!");
+string[] names = { 'Jack', 'Jill', 'Hill' };
+float average = (x + y) / 2;
+Console.WriteLine('First name: ' + firstName);
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Square root: ' + squareRoot);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+char nextChar = (char)(c + 1);
+bool[] flags = { true, false, true };
+string firstName = names[0];
+Console.WriteLine('The result is: '+ result);
+bool isEqual = x == (int)y;
+int x = 5;
+bool hasFlag = flags[1];
+bool isTrue = true;
+int[] numbers = { 1, 2, 3, 4, 5 };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+char c = 'A';
+Console.WriteLine('Average: ' + average);

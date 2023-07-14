@@ -1,0 +1,10 @@
+char c = 'A';
+int x = 5;
+string greeting = 'Hello, ' + name + '!';
+Console.WriteLine("Hello, World!");
+public class MyClass { public int MyProperty { get; set; } }
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Average: ' + average);
+char nextChar = (char)(c + 1);
+bool[] flags = { true, false, true };
+int x = 5 + 3;

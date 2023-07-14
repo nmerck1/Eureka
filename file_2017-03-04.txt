@@ -1,0 +1,14 @@
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine(greeting);
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+public class MyClass { public int MyProperty { get; set; } }
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+Console.WriteLine('Square root: ' + squareRoot);
+DateTime now = DateTime.Now;
+bool isEqual = x == (int)y;
+// This is a comment
+bool isTrue = true;

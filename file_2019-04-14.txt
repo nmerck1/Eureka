@@ -1,0 +1,7 @@
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine(greeting);
+Console.WriteLine('The result is: '+ result);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length;

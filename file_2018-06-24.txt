@@ -1,0 +1,12 @@
+Console.WriteLine('Average: ' + average);
+int[] numbers = { 1, 2, 3, 4, 5 };
+char c = 'A';
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+// This is a comment
+string[] names = { 'Jack', 'Jill', 'Hill' };
+double z = 10.5;
+bool[] flags = { true, false, true };
+Console.WriteLine('Array length: ' + length);
+char nextChar = (char)(c + 1);
+bool isTrue = true;
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }

@@ -1,0 +1,26 @@
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine('Array length: ' + length);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double z = 10.5;
+string greeting = 'Hello, ' + name + '!';
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Next character: ' + nextChar);
+Console.WriteLine("Hello, World!");
+bool[] flags = { true, false, true };
+char c = 'A';
+char nextChar = (char)(c + 1);
+bool isEqual = x == (int)y;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('The result is: '+ result);
+public static int Add(int a, int b) { return a + b; }
+int x = 5 + 3;
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Average: ' + average);
+Console.WriteLine(greeting);
+double squareRoot = Math.Sqrt(z);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+int result = x + 10;
+// This is a comment
+int[] numbers = { 1, 2, 3, 4, 5 };
+float y = 2.3f;

@@ -1,0 +1,14 @@
+double squareRoot = Math.Sqrt(z);
+char c = 'A';
+int x = 5;
+// This is a comment
+Console.WriteLine('Next character: ' + nextChar);
+string name = "John";
+Console.WriteLine('First name: ' + firstName);
+string greeting = 'Hello, ' + name + '!';
+string firstName = names[0];
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length;
+bool isTrue = true;
+string name = 'Jon';
+double z = 10.5;

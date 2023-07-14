@@ -1,0 +1,19 @@
+float y = 2.3f;
+double z = 10.5;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('First name: ' + firstName);
+bool hasFlag = flags[1];
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('Average: ' + average);
+int result = x + 10;
+Console.WriteLine(greeting);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int x = 5 + 3;
+string[] names = { 'Jack', 'Jill', 'Hill' };
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine("Hello, World!");
+char nextChar = (char)(c + 1);
+DateTime now = DateTime.Now;
+string name = "John";

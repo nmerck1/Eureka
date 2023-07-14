@@ -1,0 +1,5 @@
+DateTime now = DateTime.Now;
+int length = numbers.Length;
+string firstName = names[0];
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine(greeting);

@@ -1,0 +1,7 @@
+string firstName = names[0];
+Console.WriteLine('The result is: '+ result);
+public static int Add(int a, int b) { return a + b; }
+float average = (x + y) / 2;
+public class MyClass { public int MyProperty { get; set; } }
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine('Flag at index 1: ' + hasFlag);

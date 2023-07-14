@@ -1,0 +1,15 @@
+public static int Add(int a, int b) { return a + b; }
+string greeting = 'Hello, ' + name + '!';
+char nextChar = (char)(c + 1);
+// This is a comment
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('First name: ' + firstName);
+Console.WriteLine('Array length: ' + length);
+string name = "John";
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool isEqual = x == (int)y;
+string name = 'Jon';
+int result = x + 10;
+int[] numbers = { 1, 2, 3, 4, 5 };
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+Console.WriteLine("Hello, World!");

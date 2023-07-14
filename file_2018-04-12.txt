@@ -1,0 +1,9 @@
+int x = 5;
+Console.WriteLine('First name: ' + firstName);
+string[] names = { 'Jack', 'Jill', 'Hill' };
+Console.WriteLine(greeting);
+int length = numbers.Length;
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+float y = 2.3f;
+double z = 10.5;

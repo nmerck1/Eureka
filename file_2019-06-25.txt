@@ -1,0 +1,15 @@
+// This is a comment
+List<string> names = new List<string> { "Alice", "Bob", "Charlie" };
+bool[] flags = { true, false, true };
+float average = (x + y) / 2;
+string firstName = names[0];
+char c = 'A';
+int x = 5;
+bool isTrue = true;
+int result = x + 10;
+Console.WriteLine('Average: ' + average);
+string name = 'Jon';
+int[] numbers = { 1, 2, 3, 4, 5 };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+char nextChar = (char)(c + 1);
+Console.WriteLine('Next character: ' + nextChar);

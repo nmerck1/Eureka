@@ -1,0 +1,15 @@
+Console.WriteLine(greeting);
+Console.WriteLine("Hello, World!");
+bool hasFlag = flags[1];
+int x = 5 + 3;
+// This is a comment
+string firstName = names[0];
+string name = 'Jon';
+int result = x + 10;
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int[] numbers = { 1, 2, 3, 4, 5 };
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+float average = (x + y) / 2;
+char nextChar = (char)(c + 1);
+bool isEqual = x == (int)y;
+bool isTrue = true;

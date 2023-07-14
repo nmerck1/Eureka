@@ -1,0 +1,5 @@
+float y = 2.3f;
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine('Average: ' + average);
+for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+bool[] flags = { true, false, true };

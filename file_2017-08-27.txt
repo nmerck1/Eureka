@@ -1,0 +1,10 @@
+char nextChar = (char)(c + 1);
+string greeting = 'Hello, ' + name + '!';
+public class MyClass { public int MyProperty { get; set; } }
+Console.WriteLine('The result is: '+ result);
+Console.WriteLine('Square root: ' + squareRoot);
+string name = 'Jon';
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+int x = 5;
+char c = 'A';
+Console.WriteLine('Average: ' + average);

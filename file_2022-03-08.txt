@@ -1,0 +1,6 @@
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+double squareRoot = Math.Sqrt(z);
+string firstName = names[0];
+double z = 10.5;
+public static int Add(int a, int b) { return a + b; }

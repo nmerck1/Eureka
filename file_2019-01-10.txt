@@ -1,0 +1,11 @@
+int[] numbers = { 1, 2, 3, 4, 5 };
+bool hasFlag = flags[1];
+Console.WriteLine('Square root: ' + squareRoot);
+Console.WriteLine('Flag at index 1: ' + hasFlag);
+Console.WriteLine('Array length: ' + length);
+double squareRoot = Math.Sqrt(z);
+Console.WriteLine(greeting);
+Console.WriteLine('Are x and y equal ? ' + isEqual);
+char c = 'A';
+double z = 10.5;
+// This is a comment
